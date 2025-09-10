@@ -1,4 +1,4 @@
-Members
+# Membres
 
-  Obede DE-djekounyom
-  Jean Alexis
+- Obede De-djekounyom
+- Jean Alexis
